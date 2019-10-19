@@ -237,7 +237,10 @@ if (isset($_POST["delete"]))
 
 
 
-  ![Результат виконання програми](/Result_7.png)
+  ![Вигляд форми](/Form.png)
+    ![Вигляд форми](/Created.png)
+      ![Вигляд форми](/Deleted.png)
+        ![Вигляд форми](/Insert.png)
 
 ___
 

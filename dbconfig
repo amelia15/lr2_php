@@ -1,6 +1,0 @@
-<?php
-    $host = 'localhost';
-    $dbname = 'che_db';
-    $username = 'che';
-    $password = 'che';
-?>
